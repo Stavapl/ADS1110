@@ -1,0 +1,6 @@
+{"build": {
+    "libArchive": false,
+    "flags": [
+        "-I src/include"]
+    }
+}
